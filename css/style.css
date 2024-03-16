@@ -1,0 +1,77 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #FAEBD7 url('../images/vintage-concrete.png');
+	color: #333;
+}
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+a:hover { color: Tomato; }
+
+header, nav, main, footer {
+	width: 80%;
+	margin: auto;
+}
+
+
+/* Header styles */
+header { 
+	background-color: #000;
+	color: BlanchedAlmond;
+	min-height: 100px;
+	margin-top: 60px;
+	background-image: url("../images/stars.jpeg");
+}
+
+header h1 {
+	padding: 40px 60px;
+	font-size: 48px;
+}
+
+
+/* Nav styles */
+nav { background-color: #333; }
+nav ul { 
+	display: flex;
+	justify-content: flex-end;
+}
+nav li { padding: 10px 10px; }
+nav a { color: BlanchedAlmond; }
+nav a:hover { color: white; }
+
+
+/* Main styles */
+main { 
+	background-color: #fff;
+	display: grid;
+	grid-template-columns: 60% 40%;
+}
+
+section {
+	padding: 40px 60px;
+}
+
+section ul, aside ul {
+	list-style-type: square;
+	margin-top: 20px; 
+	margin-left: 30px;
+	margin-bottom: 40px;
+}
+
+aside {
+	padding: 40px 10px;
+}
+
+/* Footer styles */
+footer { 
+	background-color: #000;
+	color: white;
+	text-align: center;
+ }
+ footer p { padding: 20px; }

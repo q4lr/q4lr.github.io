@@ -1,0 +1,564 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"disc\tlist-style-type"
+			],
+			[
+				"list-style",
+				"list-style-type\tproperty"
+			],
+			[
+				"background",
+				"background-repeat\tproperty"
+			],
+			[
+				"repeat",
+				"repeat-y\tbackground-repeat"
+			],
+			[
+				"grid-column",
+				"grid-column-end\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"background-",
+				"background-size\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"justify",
+				"justify-all\ttext-align"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"transition",
+				"transition-property\tproperty"
+			],
+			[
+				"grid-auto",
+				"grid-auto-columns\tproperty"
+			],
+			[
+				"gird-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"grid-template-",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"grid-template",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"list-st",
+				"list-style-type\tproperty"
+			],
+			[
+				"image",
+				"imageFull"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"backface-visibility"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 853,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 299.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jsx",
+				"Set Syntax: JavaScript (Extended)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"react",
+				"Set Syntax: React Templates"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"vue",
+				"VUEFormatter"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"emm",
+				"Set Syntax: Emmet"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"handl",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"javac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"set hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"set text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 166.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alanna/Documents/GitHub/username.github.io"
+	],
+	"file_history":
+	[
+		"/Users/alanna/Dropbox/PSU/FALL 2019/project_1_smart_set.txt",
+		"/Users/alanna/Sites/alannarisse.github.io/useful/javascript.html",
+		"/Users/alanna/Sites/alannarisse.github.io/useful/webdev.html",
+		"/Users/alanna/Documents/dreamhost_rsa_stuff.txt",
+		"/Users/alanna/Downloads/JamesL-Portfolio-master/index.html",
+		"/Users/alanna/Dropbox/Thinkful/CORS.txt",
+		"/Users/alanna/Sites/tech-coach/StevenB-JamesL-laptopCustomization-master/src/CustomizeList/CustomizeListSelections.js",
+		"/Users/alanna/Sites/tech-coach/StevenB-JamesL-laptopCustomization-master/src/CustomizeList/CustomizeList.js",
+		"/Users/alanna/Sites/tech-coach/noteful-master/src/App.js",
+		"/Users/alanna/Sites/tech-coach/noteful-master/src/components/NoteInfo.js",
+		"/Users/alanna/Sites/tech-coach/noteful-master/src/components/MyContext.js",
+		"/Users/alanna/Sites/tech-coach/noteful-master/src/components/Notes.js",
+		"/Users/alanna/Sites/oogiisar/quizApp-master/index.js",
+		"/Users/alanna/Sites/tech-coach/Soapify-Client/src/Routes/RegistrationPage/RegistrationPage.js",
+		"/Users/alanna/Sites/tech-coach/Soapify-Client/src/Components/RegistrationForm/RegistrationForm.js",
+		"/Users/alanna/Sites/tech-coach/Soapify-Client/src/APIContext.js",
+		"/Users/alanna/Sites/tech-coach/Soapify-Client/src/Routes/UserPage/UserPage.js",
+		"/Users/alanna/Sites/tech-coach/Soapify-Client/package-lock.json",
+		"/Users/alanna/Sites/tech-coach/bookmarks-server-master/test/bookmarks-endpoints.spec.js",
+		"/Users/alanna/Sites/tech-coach/react-trelloyes/src/List.js",
+		"/Users/alanna/Sites/tech-coach/react-trelloyes/src/Card.js",
+		"/Users/alanna/Sites/tech-coach/react-trelloyes/src/App.js",
+		"/Users/alanna/Sites/tech-coach/react-trelloyes/package.json",
+		"/Users/alanna/Sites/jamie/my_amc/script.js",
+		"/Users/alanna/Sites/jamie/my_amc/index.css",
+		"/Users/alanna/Sites/jamie/movieFinder/index.html",
+		"/Users/alanna/Sites/jamie/movieFinder/index.js",
+		"/Users/alanna/Sites/tech-coach/blocipedia-node/node_modules/bluebird/js/release/promise.js",
+		"/Users/alanna/Sites/tech-coach/blocipedia-node/node_modules/bluebird/js/browser/bluebird.js",
+		"/Users/alanna/Sites/tech-coach/blocipedia-node/node_modules/bluebird/js/browser/bluebird.core.js",
+		"/Users/alanna/Sites/tech-coach/blocipedia-node/node_modules/passport/lib/middleware/initialize.js",
+		"/Users/alanna/Sites/tech-coach/blocipedia-node/node_modules/passport/lib/authenticator.js",
+		"/Users/alanna/Sites/tech-coach/blocipedia-node/src/controllers/wikiController.js",
+		"/Users/alanna/Sites/tech-coach/blocipedia-node/src/db/queries.wikis.js",
+		"/Users/alanna/Sites/tech-coach/blocipedia-node/src/db/models/wiki.js",
+		"/Users/alanna/.bash_profile",
+		"/Users/alanna/Downloads/Portfolio-bdfe17a7eba408c8b0d9363555685454b90a3939/project.html",
+		"/Users/alanna/Downloads/Portfolio-bdfe17a7eba408c8b0d9363555685454b90a3939/index.html",
+		"/Users/alanna/Downloads/portfolio-sarah/index.html",
+		"/Users/alanna/Downloads/portfolio-sarah/style.css",
+		"/Users/alanna/Dropbox/Thinkful/Students/Dorah Wakou/Dorah_links.txt",
+		"/Users/alanna/Sites/alannarisse.github.io/index.html",
+		"/Users/alanna/Sites/alannarisse.github.io/style.css",
+		"/Users/alanna/Sites/alannarisse.github.io/useful/portfolio.html",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/style.css",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/single-release.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/single-post.php",
+		"/Users/alanna/Sites/plusplus/wp-config.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/archive-release.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/content-release-cards.php",
+		"/Users/alanna/Dropbox/Thinkful/Students/Dorah Wakou/dorah_slacks.txt",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/functions.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/content-releases-cards.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/page-docs-template.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/content-docs-cards.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/page-products.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/footer.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/sass/style.scss",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/page-fullwidth-template.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/page-temp.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/page.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/header.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/archive-releases.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/single-releases.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/page-releases-template.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/page-demo.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/home.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/front-page.php",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/post.php",
+		"/Users/alanna/Desktop/Asset 1.svg",
+		"/Users/alanna/Sites/alannarisse.github.io/useful/react.html",
+		"/Users/alanna/Sites/cool_opensource_project/README.md",
+		"/Users/alanna/Sites/flask/contacts/contacts-api/templates/contacts.html",
+		"/Users/alanna/Sites/flask/contacts/contacts-api/templates/result.html",
+		"/Users/alanna/Sites/flask/contacts/contacts-api/templates/index.html",
+		"/Users/alanna/Sites/flask/contacts/contacts-api/README.md",
+		"/Users/alanna/Sites/flask/contacts/contacts-api/flash_demo1.py",
+		"/Users/alanna/Sites/flask/contacts/contacts-api/flask_demo2.py",
+		"/Users/alanna/Sites/flask/contacts/contacts-api/app.py",
+		"/Users/alanna/Dropbox/Thinkful/Curriculum/Noteful Workng Example/deploy_urls.txt",
+		"/Users/alanna/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/7DE289A5-0415-40EE-A15D-80CD8C631210/take-home-requirements.md",
+		"/Users/alanna/Downloads/css-exercise-four-master 4/index.html",
+		"/Users/alanna/Downloads/plusplusco_dev_2019-04-23T02-27-40_UTC_database.sql.gz",
+		"/Users/alanna/Sites/plusplus/wp-content/themes/plusplus2019/style.css.map",
+		"/Users/alanna/Sites/plusplus/static/assets/bullet_plus_two.svg",
+		"/Users/alanna/Sites/plusplus/static/assets/bullet_plus_one.svg",
+		"/Users/alanna/Documents/sentilles_writing_workshop/april_chat.txt",
+		"/Users/alanna/Sites/plusplus/static/assets/logo_lav.svg",
+		"/Users/alanna/Sites/plusplus/static/assets/horiz_full.svg",
+		"/Users/alanna/Sites/plusplus/static/assets/logo_teal.svg",
+		"/Users/alanna/Sites/plusplus/static/assets/menu.svg",
+		"/Users/alanna/Sites/plusplus/static/style.css",
+		"/Users/alanna/Sites/plusplus/static/index.html",
+		"/Users/alanna/Sites/plusplus/static/style.html",
+		"/Users/alanna/Sites/plusplus/static/assets/bkg_table_2.svg",
+		"/Users/alanna/Sites/plusplus/static/assets/bkg_plusplus.svg",
+		"/Users/alanna/Sites/plusplus/static/assets/bkg_table.svg",
+		"/Users/alanna/Sites/plusplus/static/assets/bkg_triang_plus",
+		"/Users/alanna/Sites/plusplus/static/assets/bkg_horiz_plus.svg",
+		"/Users/alanna/Local Sites/advblog/app/public/wp-content/themes/advTheme/README.md",
+		"/Users/alanna/Desktop/cs4all.txt",
+		"/Users/alanna/Local Sites/simpleblog/app/public/wp-content/themes/simple/header.php",
+		"/Users/alanna/Local Sites/simpleblog/app/public/wp-content/themes/simple/functions.php",
+		"/Users/alanna/Local Sites/simpleblog/app/public/wp-content/themes/simple/footer.php",
+		"/Users/alanna/Local Sites/simpleblog/app/public/wp-config.php",
+		"/Users/alanna/Sites/wwr-survey/routes/results.js",
+		"/Users/alanna/Sites/wwr-survey/routes/message.js",
+		"/Users/alanna/Sites/wwr-survey/public/index.html",
+		"/Users/alanna/Documents/WWR/wwr_emails.txt",
+		"/Users/alanna/Sites/node-projects/terminal-command/terminal-commands.js",
+		"/Users/alanna/Downloads/random-dogs-master/index.js",
+		"/Users/alanna/Downloads/forms.html",
+		"/Users/alanna/Downloads/primer-dataset.json",
+		"/Users/alanna/Sites/alannarisse.github.io/useful/testing.html",
+		"/Users/alanna/Sites/react-projects/gift-giver/package.json",
+		"/Users/alanna/Sites/react-projects/gift-giver/components/App.test.js",
+		"/Users/alanna/Sites/react-projects/gift-giver/components/App.js",
+		"/Users/alanna/Sites/index.php",
+		"/Users/alanna/Sites/alannas-world/thinkful.php",
+		"/Users/alanna/Sites/index.html",
+		"/Users/alanna/Sites/react-projects/portfolio-mobfun/react-client/dist/styles.css",
+		"/Users/alanna/Sites/react-projects/portfolio-mobfun/react-client/src/components/pages/schedxCaseStudy.js",
+		"/Users/alanna/Sites/react-projects/portfolio-mobfun/react-client/src/components/common/bannerLinkImage.js",
+		"/Users/alanna/Downloads/quiz-app-master 3/main.css",
+		"/Users/alanna/Downloads/quiz-app-master 3/index.js",
+		"/Users/alanna/Dropbox/Thinkful/student_code/charlotte/skiQuizApp-master/main.css",
+		"/Users/alanna/Dropbox/Thinkful/Mentor docs/EI-practice-tech-eval.md",
+		"/Users/alanna/Dropbox/Thinkful/Mentor docs/ei-prep-mentor-update.md"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 247.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 85.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "homepage.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
